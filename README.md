@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @sanketja12
-- 👀 I’m interested in android development and user experience (UX)
-- 🌱 I’m currently learning android development and ux design
-- 💞️ I’m looking to collaborate on android project and ux design, research
 - 📫 How to reach me sanketjain456789@gmail.com
 
 <!---
